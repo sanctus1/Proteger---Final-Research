@@ -1,0 +1,24 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 106A-EE23
+
+ Directory of C:\Users\sanda\Downloads\New folder\PROTEGER_2019-master
+
+12/13/2019  06:59 PM    <DIR>          .
+12/13/2019  06:59 PM    <DIR>          ..
+11/24/2019  04:21 PM                66 .gitattributes
+11/24/2019  04:21 PM             1,938 add-logs.txt
+11/24/2019  04:21 PM             3,211 addDir-logs.txt
+11/24/2019  04:21 PM    <DIR>          build
+11/24/2019  04:21 PM             3,536 build.xml
+11/24/2019  04:21 PM               112 change-logs.txt
+11/24/2019  04:21 PM    <DIR>          dist
+12/13/2019  06:59 PM                 0 listing.txt
+11/24/2019  04:21 PM                82 manifest.mf
+11/24/2019  04:21 PM    <DIR>          nbproject
+11/24/2019  04:21 PM                24 README.md
+11/24/2019  04:21 PM               340 ready-logs.txt
+11/24/2019  04:21 PM    <DIR>          src
+11/24/2019  04:21 PM               224 unlink-logs.txt
+11/24/2019  04:21 PM               110 unlinkDir-logs.txt
+              11 File(s)          9,643 bytes
+               6 Dir(s)  23,412,531,200 bytes free
